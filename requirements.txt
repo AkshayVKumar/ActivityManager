@@ -1,0 +1,5 @@
+python==3.6.3
+django==2.2
+djangorestframework
+pytz
+django-filter
